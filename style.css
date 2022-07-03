@@ -1,0 +1,29 @@
+body{
+    font-family: font-family: 'Poppins', sans-serif;
+    
+}
+h1{
+    font-size: 60px;
+}
+span{
+    color: #F7A530;
+}
+section{
+    display: flex;
+}
+.pashapashi{
+    width: 50%;
+    padding-left: 50px;
+}
+.pashapashi img{
+    width: 80%;
+}
+.button{
+    text-decoration: none;
+    font-weight: 900;
+    padding: 10px 30px;
+    border-radius: 10px;
+    color: #FFFFFF;
+    background-image: linear-gradient(#F3906C , #F1694C);
+
+}
