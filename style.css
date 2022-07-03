@@ -1,29 +1,38 @@
-body{
-    font-family: font-family: 'Poppins', sans-serif;
-    
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 0%;
 }
-h1{
-    font-size: 60px;
+h1 {
+  font-size: 60px;
 }
-span{
-    color: #F7A530;
+span {
+  color: #f7a530;
 }
-section{
-    display: flex;
+section {
+  display: flex;
+  margin-bottom: 150px;
 }
-.pashapashi{
-    width: 50%;
-    padding-left: 50px;
+.pashapashi {
+  width: 50%;
+  padding-left: 50px;
 }
-.pashapashi img{
-    width: 80%;
+.pashapashi img {
+  width: 80%;
 }
-.button{
-    text-decoration: none;
-    font-weight: 900;
-    padding: 10px 30px;
-    border-radius: 10px;
-    color: #FFFFFF;
-    background-image: linear-gradient(#F3906C , #F1694C);
-
+.button {
+  text-decoration: none;
+  font-weight: 900;
+  padding: 10px 30px;
+  border-radius: 5px;
+  color: #ffffff;
+  background-image: linear-gradient(#f3906c, #f1694c);
+}
+.top-banner {
+  background-image: url(images/top-banner.png);
+  background-repeat: no-repeat;
+}
+.side-banner {
+  background-image: url(images/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
 }
