@@ -15,9 +15,11 @@ section {
 .pashapashi {
   width: 50%;
   padding-left: 50px;
+  padding-right: 50px;
+  text-align: justify;
 }
 .pashapashi img {
-  width: 80%;
+  width: 100%;
 }
 .button {
   text-decoration: none;
