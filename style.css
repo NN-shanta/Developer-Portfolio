@@ -54,11 +54,16 @@ p {
   border-radius: 10px;
   box-shadow: 10px 10px 50px gray;
 }
-.experience-margin1 {
+#experience-margin1 {
   margin-left: 80px;
   margin-right: 40px;
+  border-left: 7px solid #f06044;
 }
-.experience-margin2 {
+#experience-margin2 {
   margin-left: 40px;
   margin-right: 80px;
+  border-left: 7px solid #3267fc;
+}
+footer p {
+  text-align: center;
 }
