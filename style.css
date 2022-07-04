@@ -3,7 +3,7 @@ body {
   margin: 0%;
 }
 h1 {
-  font-size: 60px;
+  font-size: 35px;
 }
 span {
   color: #f7a530;
@@ -14,9 +14,8 @@ section {
 }
 .pashapashi {
   width: 50%;
-  padding-left: 50px;
-  padding-right: 50px;
-  text-align: justify;
+  padding-left: 60px;
+  padding-right: 110px;
 }
 .pashapashi img {
   width: 100%;
@@ -37,4 +36,29 @@ section {
   background-image: url(images/dream-bg.png);
   background-repeat: no-repeat;
   background-position: right;
+}
+.experience {
+  background-image: url(images/exp-bg.png);
+  background-repeat: no-repeat;
+  background-position: left;
+}
+h3 {
+  color: #f7a630;
+}
+p {
+  text-align: justify;
+}
+.experience-iteam {
+  width: 45%;
+  padding: 20px 20px 60px 20px;
+  border-radius: 10px;
+  box-shadow: 10px 10px 50px gray;
+}
+.experience-margin1 {
+  margin-left: 80px;
+  margin-right: 40px;
+}
+.experience-margin2 {
+  margin-left: 40px;
+  margin-right: 80px;
 }
